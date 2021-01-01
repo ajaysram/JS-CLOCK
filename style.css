@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.main{
+    height: 100vh;
+    width: 100vw;
+    font-size: 100px;
+    font-family: 'Langar', cursive;
+}
+
+#clock{
+    padding-top: 15%;
+    padding-left:30%;
+}
+
+.dark{
+    background: #0F2027; 
+    color: #fff;
+    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  
+    background: linear-gradient(to right, #2C5364, #203A43, #0F2027); 
+
+}
+
+.light{
+    color: #fff;
+    background: #2980B9;  
+    background: -webkit-linear-gradient(to top, #FFFFFF, #6DD5FA, #2980B9);  
+    background: linear-gradient(to top, #FFFFFF, #6DD5FA, #2980B9); 
+
+}
